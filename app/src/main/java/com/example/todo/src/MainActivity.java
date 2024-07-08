@@ -1,12 +1,11 @@
-package com.example.todo;
+package com.example.todo.src;
 
 import android.content.Intent;
 import android.os.Bundle;
 import android.view.View;
-import android.widget.Button;
 import android.widget.ImageButton;
 
-import com.example.todo.Analytics;
+import com.example.todo.R;
 
 import androidx.activity.EdgeToEdge;
 import androidx.appcompat.app.AppCompatActivity;
